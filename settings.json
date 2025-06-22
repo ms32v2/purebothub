@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "snugproxy.play.hosting", 
+    "ip": "snugpvp.play.hosting", 
     "port": 25565,   
     "version": "1.12.1"   
   },
